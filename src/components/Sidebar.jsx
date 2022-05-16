@@ -6,7 +6,6 @@ const Sidebar = () => {
     <Box
       flex={1}
       padding={2}
-      bgcolor="lavender"
       sx={{
         display: { xs: 'none', sm: 'block' },
       }}
